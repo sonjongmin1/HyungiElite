@@ -155,8 +155,11 @@ header {
 }
 
 .xi-share-alt-o {
-  font-size: 24px;
+  background-image: url(../img/share.svg);
+  width: 24px;
+  height: 24px;
   font-weight: bolder;
+  background-repeat: no-repeat;
 }
 
 .xi-share-alt-o:hover {
@@ -164,8 +167,11 @@ header {
 }
 
 .xi-bars {
-  font-size: 24px;
+  background-image: url(../img/menu.svg);
+  width: 24px;
+  height: 24px;
   font-weight: bolder;
+  background-repeat: no-repeat;
 }
 
 .xi-arrow-down {

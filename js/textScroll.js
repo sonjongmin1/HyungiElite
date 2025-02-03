@@ -17,5 +17,4 @@ document.addEventListener("scroll", () => {
   typing3.style.width = `${calWidth(scrollY, 710, 832)}%`;
 });
 
-console.log(window.scrollY);
-Test;
+// console.log(window.scrollY) Test;

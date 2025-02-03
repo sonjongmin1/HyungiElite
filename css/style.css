@@ -116,6 +116,11 @@ header {
 
 .icon > li:hover {
   cursor: pointer;
+  z-index: 500;
+}
+
+.icon li {
+  z-index: 500;
 }
 
 .icon > li:nth-child(1) {

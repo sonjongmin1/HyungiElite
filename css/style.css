@@ -112,6 +112,7 @@ header {
   width: 15%;
   height: 100%;
   z-index: 500;
+  border: 1px solid black;
 }
 
 .icon > li:hover {

@@ -222,11 +222,13 @@ header {
   height: 24px;
   background-image: url("../img/close.svg");
   transition: 0.5s;
+  z-index: 500;
 }
 
 .xi-close:hover {
   cursor: pointer;
   transform: rotate(360deg);
+  z-index: 500;
 }
 
 .modalMenu {

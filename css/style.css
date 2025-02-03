@@ -691,6 +691,26 @@ section:nth-of-type(4) > div {
   animation: iconMove 2s infinite alternate;
 }
 
+.person,
+.public,
+.emoji_objects {
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.person {
+  background-image: url(../img/person.svg);
+}
+
+.public {
+  background-image: url(../img/public.svg);
+}
+
+.emoji_objects {
+  background-image: url(../img/emoji.svg);
+}
 .cardUser > span {
   font-size: 100px;
 }

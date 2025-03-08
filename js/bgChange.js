@@ -11,7 +11,7 @@ window.addEventListener("scroll", () => {
 });
 
 window.addEventListener("scroll", () => {
-  if (window.scrollY >= 2650) {
+  if (window.scrollY >= 2100) {
     iframeCh.classList.add("on");
   } else {
     iframeCh.classList.remove("on");

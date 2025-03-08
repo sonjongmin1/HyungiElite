@@ -793,7 +793,7 @@ section:nth-of-type(5) {
 }
 
 #iframeCh.on {
-  animation: iframeCh 3s 0.5s both;
+  animation: iframeCh 2s 0.5s both;
 }
 
 @keyframes iframeCh {
